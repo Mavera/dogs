@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # List of Dogs
 1. German Shepherds
 2. Bulldogs
@@ -9,3 +10,6 @@
 8. Alaskan Malamute
 9. Golden Retriver
 10. Rottweiler
+=======
+Rottweiler
+>>>>>>> new-dog
